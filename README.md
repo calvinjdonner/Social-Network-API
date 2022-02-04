@@ -14,11 +14,13 @@
 </p>
      
   ## Description 🗺️
-   An API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. Videos of the functionality can be found [here] tested using Insomnia. (./images)
-   
-  <img src="./users.gif" alt="users GIF" width="640" height="360"/>
-  <img src="./thoughts.gif" alt="thoughts GIF" width="640" height="360"/>
-  <img src="./friend.gif" alt="friend GIF" width="640" height="360"/>
+   An API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. Videos of the functionality can be found [here](./images) tested using Insomnia. GIFs are below! 
+
+   <p align='center' flex='column '>
+    <img src="./images/users.gif" alt="users GIF" width="640" height="360"/>
+    <img src="./images/thoughts.gif" alt="thoughts GIF" width="640" height="360"/>
+    <img src="./images/friend.gif" alt="friend GIF" width="640" height="360"/>
+  </p>
 
   ## Table of Contents
   - [Description](#description)
